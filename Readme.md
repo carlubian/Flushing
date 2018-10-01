@@ -16,6 +16,6 @@ ___
 ___
 <h3>Other remarks</h3>
 
-* Fonts obtained from https://fontlibrary.org
-    * Selawik is designed by Microsoft
+* Fonts obtained from [Font Library](https://fontlibrary.org)
+    * Selawik is designed by [Microsoft](https://www.github.com/microsoft)
     * Muli is designed by Vernon Adams
