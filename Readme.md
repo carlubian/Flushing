@@ -11,7 +11,7 @@ Specifically, it happens to be a rather minimalistic visual style, somewhat disc
 
 Certainly, Flushing doesn’t strive for closeness or integration, but simply to transmit information in an efficient and neutral way while keeping a safe distance from the user, even when that could be interpreted as haughtiness.
 ___
-<h2>Current version: V4 [November 2018]</h2>
+<h2>Current version: V5 [December 2018]</h2>
 
 ___
 <h3>Other remarks</h3>
