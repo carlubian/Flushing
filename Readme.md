@@ -1,5 +1,7 @@
 # Flushing style guide
 Tomorrow is just a dream away.
+![StyleGuideV6](https://img.shields.io/badge/Style%20Guide-V6-blue.svg?maxAge=2592000 "Latest style guide version")
+![StyleGuideV6](https://img.shields.io/badge/Colour%20Theme-V5-blueviolet.svg?maxAge=2592000 "Latest colour theme showcase version")
 ___
 Flushing style has as its main goal the generation of elegant and clean content that transmits feelings of order, purity, indifference and atemporality.
 
@@ -11,7 +13,10 @@ Specifically, it happens to be a rather minimalistic visual style, somewhat disc
 
 Certainly, Flushing doesn’t strive for closeness or integration, but simply to transmit information in an efficient and neutral way while keeping a safe distance from the user, even when that could be interpreted as haughtiness.
 ___
-<h2>Current version: V5 [December 2018]</h2>
+<h2>Version information</h2>
+Latest style guide version: V6 [March 2019]
+
+Latest colour theme showcase: V5 [December 2018]
 
 ___
 <h3>Other remarks</h3>
