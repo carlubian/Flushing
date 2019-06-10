@@ -1,7 +1,7 @@
 # Flushing style guide
 Tomorrow is just a dream away.
-![StyleGuideV6](https://img.shields.io/badge/Style%20Guide-V6-blue.svg?maxAge=2592000 "Latest style guide version")
-![StyleGuideV6](https://img.shields.io/badge/Colour%20Theme-V5-blueviolet.svg?maxAge=2592000 "Latest colour theme showcase version")
+![StyleGuideV7](https://img.shields.io/badge/Style%20Guide-V7-blue.svg?maxAge=2592000 "Latest style guide version")
+![ThemeShowcaseV7](https://img.shields.io/badge/Colour%20Theme-V7-blueviolet.svg?maxAge=2592000 "Latest colour theme showcase version")
 ___
 Flushing style has as its main goal the generation of elegant and clean content that transmits feelings of order, purity, indifference and atemporality.
 
@@ -14,9 +14,9 @@ Specifically, it happens to be a rather minimalistic visual style, somewhat disc
 Certainly, Flushing doesn’t strive for closeness or integration, but simply to transmit information in an efficient and neutral way while keeping a safe distance from the user, even when that could be interpreted as haughtiness.
 ___
 <h2>Version information</h2>
-Latest style guide version: V6 [March 2019]
+Latest style guide version: V7 [June 2019]
 
-Latest colour theme showcase: V5 [December 2018]
+Latest colour theme showcase: V7 [June 2019]
 
 ___
 <h3>Other remarks</h3>
@@ -24,3 +24,4 @@ ___
 * Fonts obtained from [Font Library](https://fontlibrary.org)
     * Selawik is designed by [Microsoft](https://www.github.com/microsoft)
     * Muli is designed by Vernon Adams
+* Web CSS template based on [MDBootstrap](https://mdbootstrap.com/)
