@@ -1,0 +1,28 @@
+{
+    "name": "vscode-flushing",
+    "displayName": "Flushing Style",
+    "description": "Adds a Flushing Style colour theme for Visual Studio Code",
+    "version": "1.0.0",
+    "publisher": "carlubian",
+    "icon": "images/visualstudiocode-1.png",
+    "homepage": "https://github.com/carlubian/Flushing",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/carlubian/Flushing.git"
+    },
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Flushing Style",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Flushing Style-color-theme.json"
+            }
+        ]
+    }
+}

@@ -1,3 +1,8 @@
 # Temporary Office files
 ~$*.docx
 ~$*.xlsx
+
+# Visual Studio files and directories
+.vs
+obj
+bin

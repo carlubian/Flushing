@@ -1,5 +1,5 @@
 # Flushing style guide
-Tomorrow is just a dream away.
+<em>Tomorrow is just a dream away.</em>
 ![StyleGuideV7](https://img.shields.io/badge/Style%20Guide-V7-blue.svg?maxAge=2592000 "Latest style guide version")
 ![ThemeShowcaseV7](https://img.shields.io/badge/Colour%20Theme-V7-blueviolet.svg?maxAge=2592000 "Latest colour theme showcase version")
 ___
@@ -17,6 +17,13 @@ ___
 Latest style guide version: V7 [June 2019]
 
 Latest colour theme showcase: V7 [June 2019]
+
+___
+<h2>Other content</h2>
+This repository also contains the source code for the following items:
+
+* Visual Studio 2019 colour theme extension.
+* Visual Studio Code colour theme extension.
 
 ___
 <h3>Other remarks</h3>
