@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Flushing V8 Web Test</title>
+
+    <!-- Used for the card icons -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" crossorigin="anonymous">
+    <!-- Remember to include the fonts -->
+    <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/selawik" type="text/css" />
+    <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/muli" type="text/css" />
+    <!-- Link both Bootstrap and Flushing CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/flushing.css" rel="stylesheet">
+</head>
+
+<!-- Body declaration sets document theme -->
+<body class="europa">
+
+    <nav class="navbar navbar-expand-lg navbar-dark blue">
+        
+        <a class="navbar-brand" href="#">Flushing</a>
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNav"
+                aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="mainNav">
+
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Menu link</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Menu link</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Menu link</a>
+                </li>
+
+            </ul>
+
+        </div>
+
+    </nav>
+
+    <!-- Page heading panel -->
+    <div class="jumbotron jumbotron-fluid blue panel">
+        <div class="row justify-content-center container-fluid">
+            <!-- The only element in the page using wide margins -->
+            <div class="col-sm-10">
+    
+                <h2>Europa theme example page</h2>
+                <p class="subtitle">This page showcases the new web CSS styles for Flushing V8.</p>
+                <hr class="my-4">
+    
+                <!-- Note the emphasis text inside this paragraph -->
+                <p>
+                    This large blue box represents a panel. Web pages can use panels as page headings. As you
+                    can see, the tile font is <span class="emphasis gold-text">Muli</span>, white both subtitle 
+                    and text use <span class="emphasis gold-text">Selawik</span>. The subtitle font should be bold.
+                </p>
+                <p>Note that the heading uses a slightly wider margin than the rest
+                    of the page. This is an acceptable divergence for web pages.
+                </p>
+    
+            </div>
+        </div>
+    </div>
+
+    <!-- This div has a slight margin, so panels must be outside of it -->
+    <div class="container-fluid">
+    
+        <!-- Use a col-8 centered. This is the standard margin -->
+        <div class="row justify-content-center">
+    
+            <div class="col-sm-8">
+
+                <h3 class="text-center">Other design remarks</h3>
+                <p>
+                    Note that, while panels have their heading aligned to the left, main content headings
+                    should remain aligned to the center.
+                </p>
+    
+                <h3 class="text-center">Main page content</h3>
+                <p>This is the text that holds whichever content this page is supposed to contain.
+                    Under this paragraph is the web equivalent to <span class="emphasis gold-text">bullet lists</span>. 
+                    Instead of using plain text, they can be replaced with cards, that present content in
+                    a flashier way. Cards can have both white and accent background.
+                </p>
+    
+                <div class="row justify-content-center">
+                    <!-- 3 cards * col-4 = col-12 (full width)
+                    Note that in this case the col-12 is inside a col-8,
+                    so margins are respected. -->
+                    <div class="col-sm-4">
+    
+                        <div class="card">
+    
+                            <!-- Light background -->
+                            <div class="card-body">
+                                <!-- Red icon -->
+                                <i class="fas fa-tag fa-2x red-text"></i>
+                                <!-- Dark text -->
+                                <h4 class="card-title">Hyperlinks</h4>
+                                <p class="card-text subtitle">
+                                    All hyperlinks in a Flushing web page should
+                                    be inside buttons (example below). This helps
+                                    avoid confusion between emphasis text and
+                                    navigation controls.
+                                </p>
+                            </div>
+    
+                        </div>
+    
+                    </div>
+                    <div class="col-sm-4">
+    
+                        <!-- Dark background -->
+                        <div class="card gold panel">
+    
+                            <div class="card-body">
+                                <!-- Light icon -->
+                                <i class="fas fa-cogs fa-2x"></i>
+                                <!-- Light text -->
+                                <h4 class="card-title">Cards</h4>
+                                <p class="card-text subtitle">
+                                    Note that cards have square corners, as opposed
+                                    to rounded corners. This also applies to buttons
+                                    and panels.
+                                </p>
+                            </div>
+    
+                        </div>
+    
+                    </div>
+                    <div class="col-sm-4">
+    
+                        <div class="card">
+    
+                            <div class="card-body">
+                                <i class="fas fa-project-diagram fa-2x green-text"></i>
+                                <h4 class="card-title">Icons</h4>
+                                <p class="card-text subtitle">
+                                    Card icons can use one of the accent colours to
+                                    draw attention and convey a specific purpose. Check
+                                    the intended meanings of each colour in the style guide.
+                                </p>
+                            </div>
+    
+                        </div>
+    
+                    </div>
+                </div>
+    
+                <div class="row justify-content-center mt-2">
+                    <div class="col-sm-4">
+    
+                        <div class="card lime panel">
+    
+                            <div class="card-body">
+                                <i class="fas fa-code fa-2x"></i>
+                                <h4 class="card-title">Text flow</h4>
+                                <p class="card-text subtitle">
+                                    Normal text paragraphs should not have icons or
+                                    other decorations, apart from headings and emphasis.
+                                    Such decorations are limited to cards and panels.
+                                </p>
+                            </div>
+    
+                        </div>
+    
+                    </div>
+                    <div class="col-sm-4">
+    
+                        <div class="card">
+    
+                            <div class="card-body">
+                                <i class="fas fa-magic fa-2x blue-text"></i>
+                                <h4 class="card-title">Background</h4>
+                                <p class="card-text subtitle">
+                                    Cards should have a different background from the rest of the
+                                    page. That can either be achieved by using another
+                                    off-white colour or even pure white (#FFFFFF).
+                                </p>
+                            </div>
+    
+                        </div>
+    
+                    </div>
+                    <div class="col-sm-4">
+    
+                        <div class="card cyan panel">
+    
+                            <div class="card-body">
+                                <i class="fas fa-space-shuttle fa-2x"></i>
+                                <h4 class="card-title">Origin</h4>
+                                <p class="card-text subtitle">
+                                    The Flushing V8 web CSS is based on MDBootstrap, and like
+                                    it, is based on the Bootstrap framework.
+                                </p>
+                            </div>
+    
+                        </div>
+    
+                    </div>
+                </div>
+    
+            </div>
+    
+        </div>
+    
+    </div>
+
+    <!-- Panels extend the full width, so must be
+    outside any container element -->
+    <div class="jumbotron jumbotron-fluid cyan panel my-5">
+        <!-- Make sure to respect page margins -->
+        <div class="row justify-content-center">
+            <div class="col-sm-8">
+                <h2>Another panel</h2>
+                <p class="card-text">
+                    This panel has no subtitle, but like the heading, it spans the full width
+                    of the page. However, it uses the regular col-sm-8 margins instead of col-sm-10.
+                    The button below represents how all links should appear. Every element clickable
+                    by the user should be a button or other equally recognizable element.
+                </p>
+                <hr class="my-4">
+                <a class="btn gold btn-lg" href="#" role="button">Button</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer shares background colour with the nav bar -->
+    <footer class="page-footer font-small blue panel">
+
+        <div class="footer-copyright text-center py-3">
+            Hello from Spain!
+        </div>
+
+    </footer>
+
+    <!-- These scripts come either from Bootstrap or MDBootstrap.
+    Remove them at you own risk -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0/dist/Chart.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.0/dist/jquery.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery.easing@1.4.1/jquery.easing.min.js" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="js/popper.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.js"></script>
+    <script type="text/javascript" src="js/mdb.js"></script>
+</body>
