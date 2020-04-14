@@ -1,20 +1,22 @@
 # Flushing style guide
 <em>Tomorrow is just a dream away.</em>
-![StyleGuideV8](https://img.shields.io/badge/Style%20Guide-V8-blue.svg?maxAge=2592000 "Latest style guide version")
+![StyleGuideV9](https://img.shields.io/badge/Style%20Guide-V9-blue.svg?maxAge=2592000 "Latest style guide version")
 <!--![ThemeShowcaseV7](https://img.shields.io/badge/Colour%20Theme-V7-blueviolet.svg?maxAge=2592000 "Latest colour theme showcase version")-->
 ___
-Flushing style has as its main goal the production of clean, elegant content, that transmits sensations of order, purity, indifference and atemporality.
+Flushing style has as its main goal the production of clean, elegant content, that transmits sensations of order, purity,
+indifference and atemporality.
 
-Unlike the natural world, where warm colours like orange or brown are dominant, Flushing uses a much colder colour spectrum. This allows any material using the style to immediately stand out for its contrast.
+Unlike some representations of the future, where the world is made of rust, neon and dark alleys, the future of Flushing is
+shining, clean, luminous and optimistic.
 
-It is inspired by the neofuturist style of architects like Norman Foster or Santiago Calatrava.
+It is inspired by the neofuturistic style of architects like Zaha Hadid, Norman Foster or Santiago Calatrava.
 
-Due to its thin and geometric lines, it becomes a minimalistic visual style, that abstains from getting close to reality, instead forming its own isolated space.
-
-As a conclusion, it can be stated that Flushing does not strive for closeness, integration, or complicity with the user, but simply to transmit information in an efficient manner while keeping distances.
+As a conclusion, it can be stated that Flushing doesn’t seek to get close to the user and their present world, but to 
+transport them to a minimalist future from which to offer them information in an efficient and clean way, while trying to inspire
+them.
 ___
 <h2>Version information</h2>
-Latest style guide version: V8 [October 2019]
+Latest style guide version: V9 [April 2020]
 
 <!--Latest colour theme showcase: V7 [June 2019]-->
 
@@ -24,6 +26,8 @@ This repository also contains the source code for the following items:
 
 * Visual Studio 2019 colour theme extension.
 * Visual Studio Code colour theme extension.
+* Word and PowerPoint templates.
+* CSS templates for websites.
 
 ___
 <h2>Other remarks</h2>
