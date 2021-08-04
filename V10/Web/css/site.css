@@ -56,7 +56,7 @@ Improve consistency of default fonts in all browsers. (https://github.com/sindre
 
 h1, h2, h3, h4, h5, h6, .lead {
   font-family:
-        'Muli Light',
+        'Quicksand',
         Muli,
 		system-ui,
 		-apple-system, /* Firefox supports this but not yet `system-ui` */
@@ -70,7 +70,7 @@ h1, h2, h3, h4, h5, h6, .lead {
 }
 
 body {
-    font-family: 'SelawikSemilight', Selawik, system-ui, -apple-system, /* Firefox supports this but not yet `system-ui` */
+    font-family: 'Maven Pro', MavenPro, Maven, system-ui, -apple-system, /* Firefox supports this but not yet `system-ui` */
     'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
 }
 

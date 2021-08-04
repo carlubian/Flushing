@@ -16,9 +16,10 @@ transport them to a minimalist future from which to offer them information in an
 them.
 ___
 <h2>Version information</h2>
+
 Latest style guide version: V9 [April 2020]
 
-<!--Latest colour theme showcase: V7 [June 2019]-->
+Latest beta version: V10 [August 2021]
 
 ___
 <h2>Other content</h2>
@@ -32,8 +33,8 @@ This repository also contains the source code for the following items:
 ___
 <h2>Other remarks</h2>
 
-Muli font family licensed from [Google Fonts](https://fonts.google.com/specimen/Muli) under the Open Font License.
+Quicksand font family licensed from [Google Fonts](https://fonts.google.com/specimen/Quicksand) under the Open Font License.
 
-Selawik font family licensed from [Microsoft Corporation](https://github.com/microsoft/Selawik) under the Open Font License.
+Maven Pro font family licensed from [Google Fonts](https://fonts.google.com/specimen/Maven+Pro) under the Open Font License.
 
-Web CSS template based on [MDBootstrap](https://mdbootstrap.com/), licensed under the MIT License.
+Web CSS template based on [Tailwind CSS](https://tailwindcss.com/), licensed under the MIT License.
